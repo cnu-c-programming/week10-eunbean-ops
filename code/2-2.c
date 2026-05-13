@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 struct access_rights {
     unsigned char execute : 1;
     unsigned char write : 1;
